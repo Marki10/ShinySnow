@@ -1,2 +1,0 @@
-# ShinySnow
-Created with CodeSandbox

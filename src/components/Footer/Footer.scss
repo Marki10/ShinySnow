@@ -1,0 +1,13 @@
+@import '../../variables';
+
+.footer {
+  display: flex;
+  padding: 5px;
+  background: $gray;
+}
+
+.copy-right {
+  align-self: flex-end;
+  font-size: 80%;
+  font-style: italic;
+}
